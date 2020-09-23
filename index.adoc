@@ -1,0 +1,8 @@
+=== Build feito com S2I
+
+Olá. Esse conteúdo foi criado a partir de um build utilizando a sua imagem S2i. Percebam que um arquivo Asciidoc gerou esse HTML que você está lendo.
+
+[source,bash]
+$ ls -l
+
+Esse exemplo listar os arquivos de um diretório.
