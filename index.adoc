@@ -6,3 +6,8 @@ Olá. Esse conteúdo foi criado a partir de um build utilizando a sua imagem S2i
 $ ls -l
 
 Esse exemplo listar os arquivos de um diretório.
+
+* Bullet 1
+* Bullet 2
+* Bullet 3
+* Bullet 4
